@@ -15,5 +15,5 @@
         </form>
     </div>
 </div>
-<?php include_once "pie.php"; ?>
+<?php include_once "footer.php"; ?>
 
