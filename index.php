@@ -1,4 +1,4 @@
-<?php include_once "encabezado.php"; ?>
+<?php include_once "header.php"; ?>
 <div class="row">
     <div class="col-12">
         <h1>Registrar videojuego</h1>
